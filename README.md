@@ -35,7 +35,7 @@
 
 ***
 
-# ► [Developer Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_developer_learning)
+# ► [Developer Learning](https://www.notion.so/Resources-1973c4665c8780888b75c9e49ed41143?pvs=4)
 
 ***
 
