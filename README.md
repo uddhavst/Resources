@@ -1,5 +1,5 @@
- # ► Fully Free Courses
-    * [FreeCodeCamp](https://www.freecodecamp.org/)
+# ► Fully Free Courses
+   * [FreeCodeCamp](https://www.freecodecamp.org/)
     * [OSSU](https://ossu.firebaseapp.com/)
     * [The Odin Project](https://www.theodinproject.com/)
     * [Programiz](https://www.programiz.com/)
